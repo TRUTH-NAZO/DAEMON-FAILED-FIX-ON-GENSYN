@@ -42,6 +42,8 @@ Ctrl + X to exit
 
 Restart the node.
 
+cd /root/rl-swarm
+or
  = `cd rl-swarm` 
 
 = ```
